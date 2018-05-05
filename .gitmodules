@@ -4,3 +4,6 @@
 [submodule "mdrotthoff.git-rcs-keywords"]
 	path = mdrotthoff.git-rcs-keywords
 	url = git@github.com:mdrotthoff/git-rcs-keywords.git
+[submodule "ingydotnet.git-subrepo"]
+	path = ingydotnet.git-subrepo
+	url = https://github.com/ingydotnet/git-subrepo.git
