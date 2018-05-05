@@ -1,3 +1,6 @@
 [submodule "ingydotnet.git-hub"]
 	path = ingydotnet.git-hub
 	url = https://github.com/ingydotnet/git-hub.git
+[submodule "mdrotthoff.git-rcs-keywords"]
+	path = mdrotthoff.git-rcs-keywords
+	url = git@github.com:mdrotthoff/git-rcs-keywords.git
