@@ -7,3 +7,6 @@
 [submodule "ingydotnet.git-subrepo"]
 	path = ingydotnet.git-subrepo
 	url = https://github.com/ingydotnet/git-subrepo.git
+[submodule "uvsmtid.git-group"]
+	path = uvsmtid.git-group
+	url = https://github.com/uvsmtid/git-group.git
