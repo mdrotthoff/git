@@ -10,3 +10,12 @@
 [submodule "uvsmtid.git-group"]
 	path = uvsmtid.git-group
 	url = https://github.com/uvsmtid/git-group.git
+[submodule "chrisk.git-extras"]
+	path = chrisk.git-extras
+	url = https://github.com/chrisk/git-extras
+[submodule "nvie.gitflow"]
+	path = nvie.gitflow
+	url = https://github.com/nvie/gitflow.git
+[submodule "nvie.git-toolbelt"]
+	path = nvie.git-toolbelt
+	url = https://github.com/nvie/git-toolbelt.git
