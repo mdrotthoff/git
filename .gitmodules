@@ -19,3 +19,6 @@
 [submodule "nvie.git-toolbelt"]
 	path = nvie.git-toolbelt
 	url = https://github.com/nvie/git-toolbelt.git
+[submodule "gruntwork.pre-commit"]
+	path = gruntwork.pre-commit
+	url = https://github.com/gruntwork-io/pre-commit.git
