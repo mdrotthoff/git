@@ -22,3 +22,6 @@
 [submodule "gruntwork.pre-commit"]
 	path = gruntwork.pre-commit
 	url = https://github.com/gruntwork-io/pre-commit.git
+[submodule "magicmonty.bash-git-prompt"]
+	path = magicmonty.bash-git-prompt
+	url = https://github.com/magicmonty/bash-git-prompt.git
